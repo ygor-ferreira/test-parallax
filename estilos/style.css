@@ -14,7 +14,19 @@ header {
     background-size: cover;
     background-attachment: fixed;
     display: grid;
+    opacity: 0.70;
+    
 }
+
+h1 {
+  letter-spacing: 8px;
+  font-size: 1.8em;
+  
+}
+
+.img1, .img2, .img3 {
+    opacity: 0.70;
+} 
 
 
 
@@ -125,6 +137,7 @@ section.three {
     background-position: center center;
     background-attachment: fixed;
     display: grid;
+    opacity: 0.70;
  }
 
  footer > h1 {
